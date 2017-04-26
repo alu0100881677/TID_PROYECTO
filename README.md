@@ -23,18 +23,16 @@ El objetivo de este proyecto de minería de datos es determinar, conociendo una 
 
 ### LOS DATOS
 
-* Lugar de Partida. Irrelevante.
-* Lugar de Destino. Irrelevante.
+* Lugar de Partida. 
+* Lugar de Destino. 
 * Tiempo (Numérico - (Minutos)).
 * Distancia (Numérico - (Kilómetros)).
 * Trafico (Bajo - Habitual - Medio - Alto).
 * Momento del día (matutino 6-9, mañana 9-13, media jornada 13-18, tarde 18-21, noche 21-6).
-* Calidad de la fuente (Numérico - (1 - 10)). Irrelevante?
-* Fuente de la información. Irrelevante?
 * Clima del día (Despejado, lluvioso, nublado, tormentoso). 
 * Medio de transporte (Coche, Bus).
 * Calidad del Transporte (Baja - Buena).
-* Día de la semana (Lunes - Martes - Miércoles - Jueves - Viernes- Finde).
+* Día de la semana (Laboral - Finde).
 * Terreno (Montaña - Carretera - Ciudad).
 
 
