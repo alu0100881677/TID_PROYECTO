@@ -2,6 +2,9 @@ import java.lang.*;
 import java.util.*;
 import java.io.*;
 
+/**
+* Clase-programa que lee los datos de un fichero CSV y los añade al fichero WEKA .arff
+*/
 public class ARFFConversor {
 
     public void fromCSVtoARFF(String csvFile, String arffFile, boolean append) {
