@@ -1,0 +1,12 @@
+@RELATION carTravel
+
+@ATTRIBUTE distance NUMERIC
+@ATTRIBUTE traffic {bajo, habitual, medio, alto}
+@ATTRIBUTE timeOfDay {matutino, manana, mediaJornada, tarde, noche}
+@ATTRIBUTE weather {despejado, lluvioso, nublado, tormentoso}
+@ATTRIBUTE conveyance {coche, bus}
+@ATTRIBUTE transportQuality {baja, buena}
+@ATTRIBUTE day {laboral, finde}
+@ATTRIBUTE terreno {montana, carretera, ciudad}
+
+@DATA
